@@ -1,0 +1,1 @@
+# Esta es una aplicacion utilizando una api publica de pokemones que desarrolle mientras aprendia React
